@@ -1,0 +1,21 @@
+C:/cryptopp/config.h(102): Error! E1022: Missing or misspelled data type near 'namespace'
+C:/cryptopp/config.h(102): Error! E1009: Expecting ';' but found '{'
+C:/cryptopp/config.h(102): Error! E1061: Expecting data or function declaration, but found '{'
+C:/cryptopp/config.h(104): Error! E1026: Invalid declarator
+C:/cryptopp/config.h(104): Error! E1009: Expecting ';' but found 'typedef'
+C:/cryptopp/config.h(158): Error! E1054: Expression must be constant
+C:/cryptopp/config.h(160): Error! E1061: Expecting data or function declaration, but found '}'
+C:\WATCOM\H\stddef.h(79): Error! E1026: Invalid declarator
+C:\WATCOM\H\stddef.h(79): Error! E1009: Expecting ';' but found 'typedef'
+C:\WATCOM\H\memory(26): Error! E1091: This header file requires C++
+C:\WATCOM\H\cstddef(27): Error! E1091: This header file requires C++
+C:\WATCOM\H\cstddef(34): Error! E1026: Invalid declarator
+C:\WATCOM\H\cstddef(34): Error! E1009: Expecting ';' but found 'C'
+C:\WATCOM\H\cstddef(34): Error! E1061: Expecting data or function declaration, but found 'string'
+C:\WATCOM\H\cstddef(34): Error! E1026: Invalid declarator
+C:\WATCOM\H\cstddef(34): Error! E1009: Expecting ';' but found '{'
+C:\WATCOM\H\cstddef(34): Error! E1061: Expecting data or function declaration, but found '{'
+C:\WATCOM\H\cstddef(38): Error! E1022: Missing or misspelled data type near 'namespace'
+C:\WATCOM\H\cstddef(38): Error! E1009: Expecting ';' but found '{'
+C:\WATCOM\H\cstddef(38): Error! E1061: Expecting data or function declaration, but found '{'
+C:\WATCOM\H\cstddef(39): Error! E1147: Too many errors: compilation aborted
