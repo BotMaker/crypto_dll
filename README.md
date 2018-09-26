@@ -2,7 +2,9 @@
 
 realm of the mad god rsa public key 
 
-PCHAR encyrpt(LPSTR message)
+
+
+     PCHAR encyrpt(LPSTR message)
 {
       
   RSAFunction rs;
